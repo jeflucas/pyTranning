@@ -53,3 +53,21 @@ print(s.startswith('hello'))
 ## Ends with
 print(s.endswith(sub))
 
+## Split into a list
+print(s.split())
+
+## Find position
+
+print(s.find(' '))
+
+## Is all alphanumerich
+
+print(s.isalnum())
+
+## is all alphabetich
+
+print(s.isalpha())
+
+## is all numeric
+
+print(s.isnumeric())
