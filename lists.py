@@ -26,3 +26,18 @@ print(fruits)
 
 fruits.remove('Apple')
 print(fruits)
+
+# Instert into position
+
+fruits.insert(0, 'apple')
+
+print(fruits)
+
+# remove with pop
+
+fruits.pop(2)
+print(fruits)
+
+# reverse
+
+fruits.reverse
